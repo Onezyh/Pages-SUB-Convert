@@ -1,6 +1,6 @@
 # 节点/订阅集中更新器 Pages-SUB-Convert
 
-### 本项目是通过 Cloudflare Workers/Pages 搭建节点/订阅集中更新器，将拥有全部节点/订阅集中为一个订阅链接！通过这一个订阅链接就可以更新所以的节点/订阅
+### 本项目是通过 Cloudflare Workers/Pages 搭建节点/订阅集中更新器，将拥有全部节点/订阅集中为一个订阅链接！通过这一个订阅链接就可以更新所有的节点/订阅
 
 ## Telegram交流群：[@OneZyhCN](https://t.me/OneZyhCN)
 
