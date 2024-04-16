@@ -2,15 +2,15 @@
 
 ### 这个是一个通过 Cloudflare Workers 搭建，将你任意节点与多个订阅汇聚成专属于你的订阅链接
 
-###Telegram交流群：[@OneZyhCN](https://t.me/OneZyhCN)
+## Telegram交流群：[@OneZyhCN](https://t.me/OneZyhCN)
 
-###Telegram全能搜索：[@BingCN](https://t.me/BingCN)
+## Telegram全能搜索：[@BingCN](https://t.me/BingCN)
 
 ## 关注博主 [打开博主首页](https://youtu.be/@onezyhcn)
 
 ### 免责声明
 
-本项目修改于Github上的其它开源项目：** [CF-Workers-SUB ](https://github.com/cmliu/CF-Workers-SUB)
+本项目修改于Github上的其它开源项目：[CF-Workers-SUB ](https://github.com/cmliu/CF-Workers-SUB)
 
 ## Pages 部署方法
 ### 1. 部署 Cloudflare Pages：
