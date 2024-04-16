@@ -1,6 +1,6 @@
-# 定制汇聚订阅 CF-Workers-SUB
+# 节点/订阅集中更新器 Pages-SUB-Convert
 
-### 这个是一个通过 Cloudflare Workers 搭建，将你任意节点与多个订阅汇聚成专属于你的订阅链接
+### 本项目是通过 Cloudflare Workers/Pages 搭建节点/订阅集中更新器，将拥有全部节点/订阅集中为一个订阅链接！通过这一个订阅链接就可以更新所以的节点/订阅
 
 ## Telegram交流群：[@OneZyhCN](https://t.me/OneZyhCN)
 
