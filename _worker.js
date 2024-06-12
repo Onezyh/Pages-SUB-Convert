@@ -1,18 +1,22 @@
 
 // 部署完成后在网址后面输入/，加上下方设置的mytoken=的值，即可获取聚合后的节点
 
-let mytoken = 'auto'; //可根据需要自行设定，或者使用UUID在线生成网站进行生成：https://1024tools.com/uuid
+let mytoken = 'ym678876'; //可根据需要自行设定，或者使用UUID在线生成网站进行生成：https://1024tools.com/uuid
 let BotToken =''; //可以为空，或电报@BotFather关注机器人，输入/start，选择：/newbot进行获取
 let ChatID =''; //可以为空，或电报@userinfobot中获取，选择：/start进行获取
 let TG = 0; //新手勿动， 开发者选项，1 为推送所有的访问信息，0 为不推送订阅转换后端的访问信息与异常访问
 let FileName = 'Pages-SUB-Convert';
-let SUBUpdateTime = 6; //更改此次设置订阅更新时间，单位小时
+let SUBUpdateTime = 2; //更改此次设置订阅更新时间，单位小时
 
 //在以下输入您的自建节点链接或订阅链接，请保留双引号
 let MainData = `
-vless://b7a392e2-4ef0-4496-90bc-1c37bb234904@cf.090227.xyz:443?encryption=none&security=tls&sni=edgetunnel-2z2.pages.dev&fp=random&type=ws&host=edgetunnel-2z2.pages.dev&path=%2F%3Fed%3D2048#%E5%8A%A0%E5%85%A5%E6%88%91%E7%9A%84%E9%A2%91%E9%81%93https%3A%2F%2Ft.me%2FOneZyhCN%E8%8E%B7%E5%8F%96%E6%9B%B4%E5%A4%9A%E8%B5%84%E6%BA%90
-https://sub.xf.free.hr/auto
-https://hy2sub.pages.dev
+https://19th.sub-airport.com/api/v1/client/subscribe?token=4d940762f506904083a5fa8294abb39d
+https://sdpanges.1288025.xyz/sd456654
+https://trojanpages.1288025.xyz/ling1234
+https://pages122.1288025.xyz/cc123456
+https://raw.githubusercontent.com/xuehu12/iptest5/mainMagiskOnWSA/AS0-0-NRT.csv?token=GHSAT0AAAAAACTRJ6PBKDRYAU6MJHKZPC5EZTJWLCQ
+https://raw.githubusercontent.com/xuehu12/iptest5/mainMagiskOnWSA/AS0-0-ORD.csv?token=GHSAT0AAAAAACTRJ6PBGVG4FTCJFHEIP45SZTJWL6A
+https://raw.githubusercontent.com/xuehu12/iptest5/mainMagiskOnWSA/AS0-0-SIN.csv?token=GHSAT0AAAAAACTRJ6PA2AETK47FP7HUU66QZTJWMYA
 `
 
 //请将机场订阅链接填入上方
